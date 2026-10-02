@@ -16,3 +16,4 @@
 #
 
 ## 📊 Stats
+![fearlessape's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearlessape&show_icons=true&theme=cobalt2)
