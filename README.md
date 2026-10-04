@@ -2,9 +2,11 @@
 
 **`Game Craftsman (Developer / Artist / Designer)`**
 
+I'm a Computer Science student, and I have been working on a **C#** text dungeon-crawler game. I'm currently using **Godot Engine** to try to rebuild the dungeon-crawler with some visuals leaning into 2D or 3D. I tend to be passionate about game design and try to understand how certain mechanics are made.
+
 ---
 
-### 📚 Languages and Tools
+## 📚 Languages and Tools
 
 <img align= "left" alt="Java" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" />
 <img align= "left" alt="Java" width="35px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
