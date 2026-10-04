@@ -23,6 +23,7 @@ I tend to be passionate about game design, trying to understand how certain mech
 ---
 
 ## 📊 Stats
+<!--
 ![fearlessape's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearlessape&show_icons=true&theme=cobalt2)
-
+-->
 ![most used](https://github-readme-stats.shion.dev/api/top-langs/?username=FearlessApe&theme=cobalt2&show_border=true&include_all_commits=false&count_private=false&layout=compact)
